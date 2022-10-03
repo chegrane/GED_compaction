@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="jgrapht-core-1.0.1" level="project" />
+    <orderEntry type="library" name="gxl" level="project" />
+    <orderEntry type="module-library">
+      <library name="jamm">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Desktop/jamm-0.3.0-sources.jar!/src" />
+          <root url="jar://$USER_HOME$/Desktop/jamm-0.3.0-sources.jar!/test" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="jamm-0.3.3-SNAPSHOT" level="project" />
+  </component>
+</module>

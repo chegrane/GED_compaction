@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gxl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/gxl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
