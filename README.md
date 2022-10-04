@@ -10,12 +10,12 @@ Graph Edit Distance (GED) | Compacted GED search space.
 
 ## Eight (08) implementations:
 ### A-star:
-* 𝐴 − 𝑠𝑡𝑎𝑟
-* 𝐴 ∗ 𝐸𝑑𝑔𝑒
-* 𝐴 ∗ _𝐶𝑇 
-* 𝐴 ∗ _𝐶𝐵 
+* **𝐴 − 𝑠𝑡𝑎𝑟**: in the sub-folder Exact_GED_AStar
+* **𝐴 ∗ 𝐸𝑑𝑔𝑒**: in the sub-folder Exact_GED_AStar_store_Edge
+* **𝐴 ∗ _𝐶𝑇**: in the sub-folder Exact_GED_AStar_Tree
+* **𝐴 ∗ _𝐶𝐵**: in the sub-folder Exact_GED_AStar_BitSet
 ### ASBB: A-Star with Branch and Bound
-* 𝐴𝑆𝐵𝐵 
-* 𝐴𝑆𝐵𝐵 𝐸𝑑𝑔𝑒 
-* 𝐴𝑆𝐵𝐵_𝐶𝑇 
-* 𝐴𝑆𝐵𝐵_𝐶𝐵 
+* **𝐴𝑆𝐵𝐵**: in the sub-folder Compacted_Exact_GED_AStar_BB_IN
+* **𝐴𝑆𝐵𝐵 𝐸𝑑𝑔𝑒**: in the sub-folder Compacted_Exact_GED_AStar_BB_IN_Store_Edge 
+* **𝐴𝑆𝐵𝐵_𝐶𝑇**: in the sub-folder Compacted_Exact_GED_ASBB_IN_Tree
+* **𝐴𝑆𝐵𝐵_𝐶𝐵**: in the sub-folder Compacted_Exact_GED_ASBB_IN_BitSet
