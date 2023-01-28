@@ -7,24 +7,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd049018-b7b4-44c3-a6b7-3daf22a5fb0e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/Compact_Exact_GED_AStar_BitSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/Compact_Exact_GED_AStar_BitSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/Edit_Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/Edit_Operation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/GED_Operations_Cost$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/GED_Operations_Cost$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/GED_Operations_Cost.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/GED_Operations_Cost.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/Graph_Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/Graph_Map.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/HungarianAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/HungarianAlgorithm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/Path.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/Path.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/graph_element/Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/graph_element/Vertex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/imoprt_exoprt_jgrapht_gxl/Export_JGraphT_To_GXL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/imoprt_exoprt_jgrapht_gxl/Export_JGraphT_To_GXL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/imoprt_exoprt_jgrapht_gxl/HashFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/imoprt_exoprt_jgrapht_gxl/HashFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/imoprt_exoprt_jgrapht_gxl/Import_JGraphT_From_GXL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/imoprt_exoprt_jgrapht_gxl/Import_JGraphT_From_GXL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/import_export_graph/GraphLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/out/production/Compact_Exact_GED_AStar_BitSet/import_export_graph/GraphLoader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Compact_Exact_GED_AStar_BitSet/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/Compact_Exact_GED_ASBB_NH_IN_BitSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/Compact_Exact_GED_ASBB_NH_IN_BitSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/EdgeOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/EdgeOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/Edit_Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/Edit_Operation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/GED_Operations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/GED_Operations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/GED_Operations_Cost$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/GED_Operations_Cost$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/GED_Operations_Cost.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/GED_Operations_Cost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/Graph_Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/Graph_Map.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/HungarianAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/HungarianAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/NewH_function.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/NewH_function.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/Path.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/Path.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/Path_Cost_Comparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/Path_Cost_Comparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/graph_element/Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/graph_element/Edge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/graph_element/Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/graph_element/Vertex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/imoprt_exoprt_jgrapht_gxl/Export_JGraphT_To_GXL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/imoprt_exoprt_jgrapht_gxl/Export_JGraphT_To_GXL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/imoprt_exoprt_jgrapht_gxl/HashFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/imoprt_exoprt_jgrapht_gxl/HashFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/imoprt_exoprt_jgrapht_gxl/Import_JGraphT_From_GXL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/imoprt_exoprt_jgrapht_gxl/Import_JGraphT_From_GXL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/import_export_graph/GraphLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/import_export_graph/GraphLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/import_export_graph/ImportExportFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compact_Exact_GED_ASBB_NH_IN_BitSet/import_export_graph/ImportExportFormat.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -353,6 +355,14 @@
       <option name="presentableId" value="Default" />
       <updated>1490104108245</updated>
     </task>
+    <task id="LOCAL-00001" summary="add -javaajant:path/jammjar">
+      <created>1672797594069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672797594069</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -388,6 +398,10 @@
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add -javaajant:path/jammjar" />
+    <option name="LAST_COMMIT_MESSAGE" value="add -javaajant:path/jammjar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
